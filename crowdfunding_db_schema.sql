@@ -4,9 +4,9 @@ CREATE TABLE category (
   category VARCHAR
 );
 -- Creating the subcategory table
-CREATE TABLE category (
+CREATE TABLE subcategory (
   subcategory_id VARCHAR PRIMARY KEY,
-  sub-category VARCHAR
+  subcategory VARCHAR
 );
 -- Creating the contacts table
 CREATE TABLE contacts (
